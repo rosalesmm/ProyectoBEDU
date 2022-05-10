@@ -2,4 +2,4 @@ Predicción de Generación de Energía Eléctrica en el Sistema Eléctrico Nacio
 
 Datos obtenidos de SENER - Sistema de Información Enérgetica (SIE)
 
-Proyecto para certificación del curso de Data Science de BEDU
+Proyecto para certificación del curso de Data Science en BEDU
